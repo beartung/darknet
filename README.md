@@ -70,6 +70,7 @@ Others: https://www.youtube.com/channel/UC7ev3hNVkx4DzZ3LO19oebg
 ### How to use:
 
 ##### Example of usage in cmd-files from `build\darknet\x64\`:
+* `darknet_coco_yolov3_savevideo.cmd` - initialization with 236 MB **Yolo v3** COCO-model yolov3.weights & yolov3.cfg and play your video file which you must rename to: test.mp4, and store result to: test_result.mp4
 
 * `darknet_yolo_v3.cmd` - initialization with 236 MB **Yolo v3** COCO-model yolov3.weights & yolov3.cfg and show detection on the image: dog.jpg
 
